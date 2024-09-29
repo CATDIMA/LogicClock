@@ -1,7 +1,7 @@
 # Logic Clock [Work in progress]
 ## Logic clock based on 564-series ICs and VFD lamps 
 
-
+![img](https://github.com/CATDIMA/LogicClock/blob/main/images/details.PNG?raw=true)
 *Here are some of the components used*
 
 ## Description
